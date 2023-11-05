@@ -11,8 +11,9 @@
      References:
      This was worked on with my study group- Waynei Mebrahtu, Paul Moses, Eric Johnson, Giacomo Sicciliani and Suhasini Jampuram.
      Information also obtained from in class instruction, TA's in office hours.
-     Specific rferences for .agg function: https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.agg.html
-     Linear Regression:https://www.tutorialspoint.com/linear-regression-with-matplotlib-numpy
-     custom colors: https://matplotlib.org/stable/users/explain/colors/colors.html
+
+Specific references for .agg function: https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.agg.html
+Linear Regression:https://www.tutorialspoint.com/linear-regression-with-matplotlib-numpy
+Custom colors: https://matplotlib.org/stable/users/explain/colors/colors.html
    
   
